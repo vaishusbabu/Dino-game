@@ -1,2 +1,2 @@
-# Dino-game
+# Dino-game (JS)
  
